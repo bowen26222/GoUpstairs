@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Manu.unity
+    guid: 37c0edd4884408442acd76e507562f58
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 0b8670b547f2eb740901776615fd690e
+  - enabled: 1
+    path: Assets/Scenes/1F.unity
+    guid: 2ec46b710d64d5d4587eb8d7c6ee2946
+  - enabled: 1
+    path: Assets/Scenes/2F.unity
+    guid: de0ae9250af99b54696c5c3d3efe9d8f
+  - enabled: 1
+    path: Assets/Scenes/OldWomenRoom.unity
+    guid: e0d36b38719191c4fa0c1d91ad91a1d5
+  - enabled: 1
+    path: Assets/Scenes/2F-2.unity
+    guid: 4e288dcd05d88674b9e7046dcd23fb37
+  - enabled: 1
+    path: Assets/Scenes/3F.unity
+    guid: 64c6a1fa5ff73ca478d46b5ffa4b55f1
+  - enabled: 1
+    path: Assets/Scenes/4F.unity
+    guid: 2eb773590e10bdc48aa52944c412e496
+  - enabled: 1
+    path: Assets/Scenes/4F-2.unity
+    guid: afc3afdca1079f349a63b2d8c2498c14
+  - enabled: 1
+    path: Assets/Scenes/GirlRoom.unity
+    guid: 39ed9c6914d77684e9e87514d5d99380
+  - enabled: 1
+    path: Assets/Scenes/N5F.unity
+    guid: 05e59bec2b2e2c640ae3be53df637040
+  - enabled: 1
+    path: Assets/Scenes/B5F.unity
+    guid: feb6f243ac1087043a1b3500607f6d4f
+  - enabled: 1
+    path: Assets/Scenes/T5F.unity
+    guid: 660f2c5ea084b904b84ae35100a1a1d7
+  - enabled: 1
+    path: "Assets/Scenes/\u5377\u5B97.unity"
+    guid: c4cecabda89f81a4ab26d112d2defed3
+  m_configObjects: {}
